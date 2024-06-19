@@ -3,7 +3,7 @@ power bi dashbaord
 
 Project Objective: To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
-Dataset: Financial dataset
+Dataset: Credit card transaction data and customer information data
 
 Steps:
 - Import data from SQL database
