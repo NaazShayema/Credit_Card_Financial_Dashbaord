@@ -14,8 +14,8 @@ Steps:
 Insights: 
 WoW (Week over Week) change:
 - Revenue increased by 28.8%
-- Total Transaction Amount and Count increased by xx% and xx%
-- Customer count increased by xx%
+- Total Transaction Amount and Count increased by  2.22% and 1.74%
+- Customer count increased by 12.8%
 Overview YTD:
 - Overall revenue is 57M
 - Total interest is 8M
